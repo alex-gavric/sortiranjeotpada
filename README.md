@@ -1,5 +1,5 @@
-# Masinsko ucenje, projekat 3, Elfak Nis
-### Aleksandar Gavric 1133, Nikola Blagojevic 1138
+# Masinsko ucenje
+### Aleksandar Gavric
 
 ## Klasifikacija slika otpada na klase karton, staklo, metal, papir, plastika ili djubre
 
